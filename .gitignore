@@ -1,0 +1,8 @@
+.env.secret
+.DS_Store
+.vscode/
+config.js
+node_modules
+
+build
+.firebase
